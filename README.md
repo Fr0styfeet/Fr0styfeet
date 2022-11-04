@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anisha Kumari Lal aka Fr0styfeet.
+### Hi there 👋 I am Anisha Kumari Lal
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=Anishakumarilal)](https://holopin.io/@anishakumarilal)
 
 <!--
