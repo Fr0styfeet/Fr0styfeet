@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anisha Kumari Lal</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fr0styfeet&label=Profile%20views&color=0e75b6&style=flat" alt="anisha" /> </p><h1 align="center">Hi 👋, I'm Anisha Kumari Lal</h1>
 <h3 align="center">A Passionate Web Developer and Tech enthusiast</h3>
 
 👀 I’m interested in open source contribution <br>
