@@ -4,8 +4,6 @@
 
 👀 I’m interested in open source contribution <br>
 
-🌱 I’m currently learning Cloud Computing<br>
-
 💞️ I'm on the lookout for passionate individuals to join me in building an open-source project
 
 📫 How to reach me **anishakumarilal2003@gmail.com**
